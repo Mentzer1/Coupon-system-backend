@@ -14,7 +14,7 @@ public class CouponsProjectSpringApplication {
 
 	public static void main(String[] args) throws SQLException {
 		ApplicationContext ctx = SpringApplication.run(CouponsProjectSpringApplication.class, args);
-		System.out.println("Server is running");
+		System.out.println("Server is up and running");
 //		Test test = ctx.getBean(Test.class);
 //
 //
